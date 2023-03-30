@@ -5,3 +5,6 @@ Added by Developer B
 Added by real B in login user
 
 Stashing the lines
+
+After Version 1.0
+Learn architecture revamping
