@@ -8,3 +8,6 @@ Stashing the lines
 
 After Version 1.0
 Learn architecture revamping
+Login Branch lines checking
+Check 1
+Check 2
